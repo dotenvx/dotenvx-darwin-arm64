@@ -1,6 +1,6 @@
 {
   "name": "@dotenvx/dotenvx-darwin-arm64",
-  "version": "0.1.2",
+  "version": "0.30.0",
   "description": "dotenvx-darwin-arm64 binary",
   "repository": {
     "type": "git",
